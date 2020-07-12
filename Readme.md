@@ -4,7 +4,7 @@
 
 A dynamic, responsive [Laravel Livewire](https://livewire.com) form component with realtime validation, file uploads, array fields, and more.
 
-- [Based On](https://github.com/kdion4891/laravel-livewire-forms)
+- [Based On](https://github.com/kdion4891/laravel-livewire-forms) - We made modifications to this package to archieve what we have.
 - [Support](https://github.com/naitrons/laravel-livewire-tailwind-forms/issues)
 
 
