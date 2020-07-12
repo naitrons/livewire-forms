@@ -1,0 +1,25 @@
+{
+    "name": "naitrons/livewire-forms",
+    "description": "A dynamic, responsive Laravel Livewire form component with realtime validation, file uploads, array fields, and more based on tailwind.",
+    "homepage": "https://github.com/naitrons/livewire-forms",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Babatunde Akinse",
+            "email": "babatunde.akinse@naitrons.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Naitrons\\LivewireForms\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Naitrons\\LivewireForms\\Providers\\FormServiceProvider"
+            ]
+        }
+    }
+}
