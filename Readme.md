@@ -1,6 +1,6 @@
 # Livewire Forms
 
-![Laravel Livewire Forms](https://i.imgur.com/YB0gEJ8.gif)
+![Livewire Forms](https://i.imgur.com/YB0gEJ8.gif)
 
 A dynamic, responsive [Laravel Livewire](https://livewire.com) form component with realtime validation, file uploads, array fields, and more.
 
