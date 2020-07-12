@@ -48,7 +48,11 @@ Now all that's left is to compile the assets:
 
 Using the `make` command:
 
-    php artisan make:form UserCreateForm --model=User or php artisan make:form UserCreateForm --model=App/Models/User
+    php artisan make:form UserCreateForm --model=User 
+    
+Or if working with custom namespace e.g  
+
+    php artisan make:form UserCreateForm --model=App/Models/User
 
 This creates your new form component in the `app/Http/Livewire` folder.
 
